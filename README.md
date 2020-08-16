@@ -10,4 +10,4 @@ Transport functionality for the additively reconstructed audio file is currently
 Project utilizes: Hussain, Rafat. C Implementation of Wavelet Transform (DWT,SWT and MODWT), October 22, 2019. [Online], Available: https://github.com/rafat/wavelib
 These files are contained in Source/CWT.c
 
-![Image of Application](/yaktocat.png)
+![Image of Application](./yaktocat.png)
